@@ -1,0 +1,93 @@
+
+    .header {
+        background: #5fc0cd;
+        width: 100%;
+        height: 3rem;
+        color:white;
+    }
+    .sign_up {
+        float:left;
+        font-size: 1.2rem;
+        line-height: 3rem;
+
+    }
+    .sign_in {
+        text-align: center;
+        font-size: 1.5rem;
+        line-height: 3rem;
+
+    }
+   .close {
+    float:right;
+    font-size: 1.2rem;
+    line-height: 3rem;
+   }
+
+   .input1{
+
+    width: 100%;
+    height: 4rem;
+
+    background-color: #ffffff;
+    border-top: 1rem solid #eff0f4;
+    border-bottom: 1rem solid #eff0f4;
+    }
+    .p1 {
+
+    width: 3rem;
+    height: 90%;
+
+    float: left;
+    }
+    .input_1{
+
+    height: 90%;
+    border: none;
+    margin-left: 1rem;
+    outline:none;
+    }
+
+.input2{
+
+    width: 100%;
+    height: 4rem;
+
+    background-color: #ffffff;
+    border-top: 1rem solid #eff0f4;
+    border-bottom: 1rem solid #eff0f4;
+    }
+    .p2{
+        width: 3rem;
+        height: 90%;
+        float: left;
+    }
+    .input_2{
+        height: 90%;
+        border: none;
+        outline: none;
+        margin-left:1rem;
+
+    }
+.bottom{
+
+    width: 100%;
+    height: 3.5rem;
+
+    background-color:  #5fc0cd;
+    color:white;
+
+    float: left;
+    margin-top: 1.3rem;
+
+    text-align: center;
+    
+}
+.text{
+    line-height: 3.5rem;
+    font-size: 1.5rem;
+}
+    .forget {
+        float: right;
+        color: #5fc0cd;
+    }
+   
